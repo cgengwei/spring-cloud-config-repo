@@ -1,0 +1,13 @@
+spring:
+  mail:
+    host: smtp.163.com
+    default-encoding: UTF-8
+    username: nabob_c@163.com
+    password: TDZNNLERHQIKZTPM
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
